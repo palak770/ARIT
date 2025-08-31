@@ -32,37 +32,7 @@ ARIT is a multi-agent research and reasoning system that:
 
 ## High-Level Architecture
 
-[Authorized Feeds / OSINT / Sensors]
-
-↓
-[Ingestion Layer]
-
-↓
-[Preprocessing & Privacy Layer]
-
-↓
-[Agent Research Orchestrator] ──→ [Task Queue]
-
-↓ ↓
-
-[NLP / CV / ASR] [Knowledge Graph DB]
-
-↓ ↓
-
-[Correlation & Scoring Engine] ←────┘
-↓
-
-[Human-in-the-loop Review & Playbooks]
-
-↓
-[Secure Alerting / Dashboard / Export]
-
-↓
-[Audit & Immutable Anchoring]
-
-
-
----
+  <img width="1024" height="1536" alt="security " src="https://github.com/user-attachments/assets/e280c2a5-17a7-4632-a91d-af4fb3ae87ce" />
 
 ## Core Components
 
